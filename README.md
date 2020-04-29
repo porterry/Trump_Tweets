@@ -1,2 +1,2 @@
 # Trump_Tweets
-Attempting to predict the amount trump tweets per week for Predictit
+Attempting to predict the amount Trump tweets per week for Predictit
